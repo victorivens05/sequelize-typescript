@@ -115,7 +115,7 @@
     "has-flag": "4.0.0",
     "husky": "5.0.9",
     "lodash": "4.17.20",
-    "markdownlint-cli": "0.26.0",
+    "markdownlint-cli": "0.27.1",
     "mocha": "8.3.0",
     "moment": "2.29.1",
     "mysql2": "2.2.5",
